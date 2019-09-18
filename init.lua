@@ -84,7 +84,6 @@ function spectator.stop(player, reason)
 	end
 end
 
-
 minetest.register_chatcommand("spectate", {
 	description = "Toggle spectate mode for 30 seconds.",
 	func = function(name)
