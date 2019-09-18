@@ -1,5 +1,5 @@
 ## Features ##
-* 30 seconds of invisibileness and no interaction
+* 30 seconds of invisibleness and no interaction
 * Supposedly saves and restores all player data
 * Allows noclip and fly while spectating
 * Will teleport spectator back to origin if entering a protected area
